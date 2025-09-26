@@ -11,7 +11,7 @@ This Power BI project focuses on building a dynamic and interactive dashboard to
       <p><b> </b> DAX (Data Analysis Expression) : For creating calculated columns, measures, and KPIs like Total Sales, Profit Margin. </p>
     <p><b>Goal:</b> Visualize Sales Performance,Enable Data-Driven Decisions and Understand Customer Behavior.</p>
   </div>
-<h2>Understand the Data Sources</h2>
+<h2>2.Understand the Data Sources</h2>
 <p>Start by identifying and importing your datasets. Common sources include:</p>
 
 <ul>
@@ -25,13 +25,22 @@ This Power BI project focuses on building a dynamic and interactive dashboard to
 <p>Use Power BI’s Get Data feature to load Excel, CSV, or database files.</p>
 Query, and relationships are established in the Power BI data model for seamless analysis.</p>
 
-<h2>Clean and Transform with Power Query</h2>
+<h2>3.Clean and Transform with Power Query</h2>
 <p>Use Power Query Editor to:</p>
-
 <ul>
   <li>Remove duplicates and nulls</li>
   <li>Format date fields</li>
   <li>Merge tables (e.g., join Sales with Product and Customer tables)</li>
   <li>Create calculated columns (e.g., Total Sales = Quantity × Price)</li>
 </ul>
+ <div class="section">
+    <h2><b>4. Power BI : visualization and Business Problem Solving</b></h2>
+    <p><b>Business Problem-Solving:</b> Write and execute visualization Deshboard to answer critical business questions, such as:</p>
+    <ul>
+      <li>Identify top-selling products and underperforming regions.</li>
+      <li>Understand customer demographics and buying behavior</li>
+      <li>Track seasonal trends and optimize inventory.</li>
+      <li>Merge tables and create calculated columns (e.g., Total Sales = Quantity × Price).</li>
+    <p><b>Documentation:</b> Published to Power BI Service with scheduled refresh and results.</p>
+  </div>
 
