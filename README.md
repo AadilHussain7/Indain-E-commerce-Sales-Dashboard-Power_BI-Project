@@ -43,4 +43,12 @@ Query, and relationships are established in the Power BI data model for seamless
       <li>Merge tables and create calculated columns (e.g., Total Sales = Quantity × Price).</li>
     <p><b>Documentation:</b> Published to Power BI Service with scheduled refresh and results.</p>
   </div>
+  <h2>Results </h2>
+
+<p>Interactive dashboard for strategic decision-making</p>
+<h3>Customer Behavior</h3>
+<ul>
+  <li>analysis reveals buying patterns, preferences, and demographics to optimize sales strategy..</li>
+</ul>
+
 
